@@ -1,0 +1,5 @@
+from handlers.default_handlers import best_deal_handler
+from handlers.default_handlers import high_price_handler
+from handlers.default_handlers import history_cmd
+from handlers.default_handlers import low_price_handler
+from handlers.default_handlers import other_cmd
